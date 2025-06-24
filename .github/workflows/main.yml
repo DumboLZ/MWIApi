@@ -44,4 +44,4 @@ jobs:
         run: |
           curl -X POST "$SYNC_ENDPOINT" \
                -H "X-Sync-Token: $SYNC_TOKEN" \
-               --fail --silent --show-error   参照这样的方式
+               --fail --silent --show-error
