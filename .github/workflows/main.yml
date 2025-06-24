@@ -1,0 +1,47 @@
+name: Sync upstream holychikenz/MWIApi
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+concurrency:
+  group: sync-upstream
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Add upstream & fetch
+        run: |
+          git remote add upstream https://github.com/holychikenz/MWIApi.git || true
+          git fetch upstream
+
+      # 首次合并时带 --allow-unrelated-histories；后续可去掉
+      - name: Merge upstream → origin
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git merge --allow-unrelated-histories --no-edit upstream/main || true
+
+          if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/main)" ]; then
+            git push origin HEAD:main
+          else
+            echo "No changes to push"
+          fi
+      # 4. 通知你的游戏商店后端刷新数据
+      - name: Notify game store
+        env:
+          SYNC_ENDPOINT: ${{ secrets.SYNC_ENDPOINT }}
+          SYNC_TOKEN:    ${{ secrets.SYNC_TOKEN }}
+        run: |
+          curl -X POST "$SYNC_ENDPOINT" \
+               -H "X-Sync-Token: $SYNC_TOKEN" \
+               --fail --silent --show-error   参照这样的方式
