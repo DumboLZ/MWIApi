@@ -1,8 +1,8 @@
 {
   "market": {
     "Abyssal Essence": {
-      "ask": 300,
-      "bid": 295,
+      "ask": 295,
+      "bid": 290,
       "vendor": 108
     },
     "Acrobatic Hood": {
@@ -31,13 +31,13 @@
       "vendor": 3500000
     },
     "Alchemy Essence": {
-      "ask": 290,
-      "bid": 285,
+      "ask": 285,
+      "bid": 280,
       "vendor": 50
     },
     "Alchemy Tea": {
       "ask": 700,
-      "bid": 680,
+      "bid": 660,
       "vendor": 20
     },
     "Amber": {
@@ -61,8 +61,8 @@
       "vendor": 4000000
     },
     "Apple": {
-      "ask": 41,
-      "bid": 38,
+      "ask": 40,
+      "bid": 37,
       "vendor": 3
     },
     "Apple Gummy": {
@@ -86,17 +86,17 @@
       "vendor": 10000
     },
     "Aqua Essence": {
-      "ask": 30,
+      "ask": 31,
       "bid": 28,
       "vendor": 16
     },
     "Arabica Coffee Bean": {
-      "ask": 170,
+      "ask": 165,
       "bid": 160,
       "vendor": 8
     },
     "Arcane Bow": {
-      "ask": 640000,
+      "ask": 660000,
       "bid": 620000,
       "vendor": 105600
     },
@@ -111,7 +111,7 @@
       "vendor": 79200
     },
     "Arcane Log": {
-      "ask": 310,
+      "ask": 320,
       "bid": 300,
       "vendor": 40
     },
@@ -132,7 +132,7 @@
     },
     "Arcane Shield": {
       "ask": 330000,
-      "bid": 320000,
+      "bid": 310000,
       "vendor": 52800
     },
     "Arcane Water Staff": {
@@ -152,7 +152,7 @@
     },
     "Azure Alembic": {
       "ask": 34000,
-      "bid": 26000,
+      "bid": 26500,
       "vendor": 2016
     },
     "Azure Boots": {
@@ -191,12 +191,12 @@
       "vendor": 2016
     },
     "Azure Gauntlets": {
-      "ask": 24500,
-      "bid": 18500,
+      "ask": 24000,
+      "bid": 19000,
       "vendor": 1152
     },
     "Azure Hammer": {
-      "ask": 30000,
+      "ask": 29500,
       "bid": 28000,
       "vendor": 2016
     },
@@ -217,16 +217,16 @@
     },
     "Azure Milk": {
       "ask": 140,
-      "bid": 125,
+      "bid": 130,
       "vendor": 8
     },
     "Azure Needle": {
-      "ask": 35000,
+      "ask": 34000,
       "bid": 25500,
       "vendor": 2016
     },
     "Azure Plate Body": {
-      "ask": 39000,
+      "ask": 35000,
       "bid": 33000,
       "vendor": 2304
     },
@@ -236,8 +236,8 @@
       "vendor": 2016
     },
     "Azure Pot": {
-      "ask": 34000,
-      "bid": 22000,
+      "ask": 33000,
+      "bid": 23000,
       "vendor": 2016
     },
     "Azure Shears": {
@@ -246,8 +246,8 @@
       "vendor": 2016
     },
     "Azure Spatula": {
-      "ask": 42000,
-      "bid": 26000,
+      "ask": 36000,
+      "bid": 26500,
       "vendor": 2016
     },
     "Azure Spear": {
@@ -257,11 +257,11 @@
     },
     "Azure Sword": {
       "ask": 44000,
-      "bid": 42000,
+      "bid": 41000,
       "vendor": 2592
     },
     "Bag Of 10 Cowbells": {
-      "ask": 340000,
+      "ask": 350000,
       "bid": 330000,
       "vendor": 0
     },
@@ -277,7 +277,7 @@
     },
     "Bamboo Fabric": {
       "ask": 185,
-      "bid": 180,
+      "bid": 175,
       "vendor": 48
     },
     "Bamboo Gloves": {
@@ -291,12 +291,12 @@
       "vendor": 3120
     },
     "Bamboo Robe Bottoms": {
-      "ask": 26000,
+      "ask": 25500,
       "bid": 23000,
       "vendor": 4368
     },
     "Bamboo Robe Top": {
-      "ask": 30000,
+      "ask": 29500,
       "bid": 26500,
       "vendor": 4992
     },
@@ -311,17 +311,17 @@
       "vendor": 54
     },
     "Beast Boots": {
-      "ask": 46000,
+      "ask": 45000,
       "bid": 40000,
       "vendor": 8000
     },
     "Beast Bracers": {
-      "ask": 64000,
+      "ask": 66000,
       "bid": 58000,
       "vendor": 8000
     },
     "Beast Chaps": {
-      "ask": 120000,
+      "ask": 130000,
       "bid": 105000,
       "vendor": 14000
     },
@@ -337,7 +337,7 @@
     },
     "Beast Leather": {
       "ask": 820,
-      "bid": 780,
+      "bid": 800,
       "vendor": 80
     },
     "Beast Tunic": {
@@ -346,13 +346,13 @@
       "vendor": 16000
     },
     "Berserk": {
-      "ask": 150000,
-      "bid": 145000,
+      "ask": 155000,
+      "bid": 150000,
       "vendor": 1000
     },
     "Birch Bow": {
-      "ask": 145000,
-      "bid": 21000,
+      "ask": 140000,
+      "bid": 17500,
       "vendor": 960
     },
     "Birch Crossbow": {
@@ -361,18 +361,18 @@
       "vendor": 720
     },
     "Birch Fire Staff": {
-      "ask": 17500,
-      "bid": 14000,
+      "ask": 16500,
+      "bid": 13500,
       "vendor": 720
     },
     "Birch Log": {
-      "ask": 80,
+      "ask": 88,
       "bid": 78,
       "vendor": 4
     },
     "Birch Lumber": {
-      "ask": 540,
-      "bid": 520,
+      "ask": 560,
+      "bid": 540,
       "vendor": 16
     },
     "Birch Nature Staff": {
@@ -401,8 +401,8 @@
       "vendor": 40000
     },
     "Black Bear Fluff": {
-      "ask": 74000,
-      "bid": 72000,
+      "ask": 76000,
+      "bid": 74000,
       "vendor": 5000
     },
     "Black Bear Shoes": {
@@ -411,22 +411,22 @@
       "vendor": 60000
     },
     "Black Tea Leaf": {
-      "ask": 18,
-      "bid": 17,
+      "ask": 19,
+      "bid": 18,
       "vendor": 16
     },
     "Blackberry": {
-      "ask": 68,
+      "ask": 66,
       "bid": 62,
       "vendor": 4
     },
     "Blackberry Cake": {
-      "ask": 580,
+      "ask": 560,
       "bid": 490,
       "vendor": 20
     },
     "Blackberry Donut": {
-      "ask": 430,
+      "ask": 440,
       "bid": 390,
       "vendor": 20
     },
@@ -436,7 +436,7 @@
       "vendor": 5000000
     },
     "Blessed Tea": {
-      "ask": 1900,
+      "ask": 1950,
       "bid": 1850,
       "vendor": 120
     },
@@ -451,22 +451,22 @@
       "vendor": 30000
     },
     "Blueberry": {
-      "ask": 49,
+      "ask": 50,
       "bid": 48,
       "vendor": 2
     },
     "Blueberry Cake": {
-      "ask": 430,
+      "ask": 420,
       "bid": 370,
       "vendor": 10
     },
     "Blueberry Donut": {
-      "ask": 420,
-      "bid": 320,
+      "ask": 400,
+      "bid": 330,
       "vendor": 10
     },
     "Branch Of Insight": {
-      "ask": 14000000,
+      "ask": 13500000,
       "bid": 13000000,
       "vendor": 100000
     },
@@ -481,7 +481,7 @@
       "vendor": 3500000
     },
     "Brewing Essence": {
-      "ask": 190,
+      "ask": 195,
       "bid": 180,
       "vendor": 50
     },
@@ -496,7 +496,7 @@
       "vendor": 50000
     },
     "Burble Alembic": {
-      "ask": 82000,
+      "ask": 78000,
       "bid": 60000,
       "vendor": 5040
     },
@@ -506,7 +506,7 @@
       "vendor": 2880
     },
     "Burble Brush": {
-      "ask": 70000,
+      "ask": 68000,
       "bid": 50000,
       "vendor": 5040
     },
@@ -531,7 +531,7 @@
       "vendor": 5040
     },
     "Burble Enhancer": {
-      "ask": 70000,
+      "ask": 64000,
       "bid": 62000,
       "vendor": 5040
     },
@@ -542,22 +542,22 @@
     },
     "Burble Hammer": {
       "ask": 80000,
-      "bid": 64000,
+      "bid": 66000,
       "vendor": 5040
     },
     "Burble Hatchet": {
-      "ask": 70000,
-      "bid": 60000,
+      "ask": 68000,
+      "bid": 58000,
       "vendor": 5040
     },
     "Burble Helmet": {
-      "ask": 56000,
+      "ask": 54000,
       "bid": 50000,
       "vendor": 3600
     },
     "Burble Mace": {
       "ask": 92000,
-      "bid": 86000,
+      "bid": 84000,
       "vendor": 6480
     },
     "Burble Milk": {
@@ -576,7 +576,7 @@
       "vendor": 5760
     },
     "Burble Plate Legs": {
-      "ask": 80000,
+      "ask": 82000,
       "bid": 68000,
       "vendor": 5040
     },
@@ -586,12 +586,12 @@
       "vendor": 5040
     },
     "Burble Shears": {
-      "ask": 88000,
+      "ask": 84000,
       "bid": 62000,
       "vendor": 5040
     },
     "Burble Spatula": {
-      "ask": 78000,
+      "ask": 76000,
       "bid": 72000,
       "vendor": 5040
     },
@@ -636,18 +636,18 @@
       "vendor": 500
     },
     "Catalytic Tea": {
-      "ask": 1900,
-      "bid": 1850,
+      "ask": 1950,
+      "bid": 1900,
       "vendor": 120
     },
     "Cedar Bow": {
-      "ask": 62000,
-      "bid": 56000,
+      "ask": 66000,
+      "bid": 58000,
       "vendor": 3456
     },
     "Cedar Crossbow": {
       "ask": 43000,
-      "bid": 39000,
+      "bid": 40000,
       "vendor": 2592
     },
     "Cedar Fire Staff": {
@@ -656,17 +656,17 @@
       "vendor": 2592
     },
     "Cedar Log": {
-      "ask": 100,
+      "ask": 105,
       "bid": 98,
       "vendor": 8
     },
     "Cedar Lumber": {
-      "ask": 680,
-      "bid": 660,
+      "ask": 700,
+      "bid": 680,
       "vendor": 32
     },
     "Cedar Nature Staff": {
-      "ask": 60000,
+      "ask": 58000,
       "bid": 37000,
       "vendor": 2592
     },
@@ -677,7 +677,7 @@
     },
     "Cedar Water Staff": {
       "ask": 235000,
-      "bid": 39000,
+      "bid": 40000,
       "vendor": 2592
     },
     "Celestial Alembic": {
@@ -741,7 +741,7 @@
       "vendor": 5000
     },
     "Channeling Coffee": {
-      "ask": 2700,
+      "ask": 2750,
       "bid": 2650,
       "vendor": 80
     },
@@ -761,12 +761,12 @@
       "vendor": 8
     },
     "Cheese Alembic": {
-      "ask": 18500,
-      "bid": 8600,
+      "ask": 16500,
+      "bid": 2850,
       "vendor": 112
     },
     "Cheese Boots": {
-      "ask": 2550,
+      "ask": 2600,
       "bid": 2500,
       "vendor": 64
     },
@@ -806,18 +806,18 @@
       "vendor": 112
     },
     "Cheese Hatchet": {
-      "ask": 4600,
+      "ask": 4500,
       "bid": 4000,
       "vendor": 112
     },
     "Cheese Helmet": {
-      "ask": 4300,
+      "ask": 4500,
       "bid": 2200,
       "vendor": 80
     },
     "Cheese Mace": {
       "ask": 7800,
-      "bid": 3500,
+      "bid": 3600,
       "vendor": 144
     },
     "Cheese Needle": {
@@ -826,7 +826,7 @@
       "vendor": 112
     },
     "Cheese Plate Body": {
-      "ask": 5000,
+      "ask": 6000,
       "bid": 4000,
       "vendor": 128
     },
@@ -842,7 +842,7 @@
     },
     "Cheese Shears": {
       "ask": 4400,
-      "bid": 2050,
+      "bid": 2150,
       "vendor": 112
     },
     "Cheese Spatula": {
@@ -852,7 +852,7 @@
     },
     "Cheese Spear": {
       "ask": 17000,
-      "bid": 4100,
+      "bid": 4400,
       "vendor": 144
     },
     "Cheese Sword": {
@@ -867,7 +867,7 @@
     },
     "Cheesemaker's Top": {
       "ask": 250000000,
-      "bid": 80000000,
+      "bid": 160000000,
       "vendor": 3500000
     },
     "Cheesesmithing Essence": {
@@ -876,7 +876,7 @@
       "vendor": 50
     },
     "Cheesesmithing Tea": {
-      "ask": 720,
+      "ask": 760,
       "bid": 640,
       "vendor": 40
     },
@@ -901,13 +901,13 @@
       "vendor": 200000
     },
     "Chimerical Entry Key": {
-      "ask": 290000,
-      "bid": 285000,
+      "ask": 295000,
+      "bid": 280000,
       "vendor": 20000
     },
     "Chimerical Essence": {
-      "ask": 600,
-      "bid": 580,
+      "ask": 640,
+      "bid": 620,
       "vendor": 200
     },
     "Chimerical Quiver": {
@@ -966,7 +966,7 @@
       "vendor": 320000
     },
     "Cooking Essence": {
-      "ask": 225,
+      "ask": 230,
       "bid": 220,
       "vendor": 50
     },
@@ -986,13 +986,13 @@
       "vendor": 3500000
     },
     "Cotton": {
-      "ask": 45,
+      "ask": 44,
       "bid": 43,
       "vendor": 2
     },
     "Cotton Boots": {
-      "ask": 3700,
-      "bid": 2600,
+      "ask": 3600,
+      "bid": 2550,
       "vendor": 64
     },
     "Cotton Fabric": {
@@ -1017,7 +1017,7 @@
     },
     "Cotton Robe Top": {
       "ask": 4400,
-      "bid": 4200,
+      "bid": 4100,
       "vendor": 128
     },
     "Cowbell": {
@@ -1041,18 +1041,18 @@
       "vendor": 3500000
     },
     "Crafting Essence": {
-      "ask": 260,
-      "bid": 255,
+      "ask": 265,
+      "bid": 260,
       "vendor": 50
     },
     "Crafting Tea": {
       "ask": 720,
-      "bid": 680,
+      "bid": 660,
       "vendor": 40
     },
     "Crimson Alembic": {
-      "ask": 140000,
-      "bid": 110000,
+      "ask": 135000,
+      "bid": 115000,
       "vendor": 10752
     },
     "Crimson Boots": {
@@ -1092,7 +1092,7 @@
     },
     "Crimson Gauntlets": {
       "ask": 76000,
-      "bid": 72000,
+      "bid": 66000,
       "vendor": 6144
     },
     "Crimson Hammer": {
@@ -1106,8 +1106,8 @@
       "vendor": 10752
     },
     "Crimson Helmet": {
-      "ask": 98000,
-      "bid": 92000,
+      "ask": 105000,
+      "bid": 94000,
       "vendor": 7680
     },
     "Crimson Mace": {
@@ -1116,12 +1116,12 @@
       "vendor": 13824
     },
     "Crimson Milk": {
-      "ask": 245,
-      "bid": 235,
+      "ask": 250,
+      "bid": 230,
       "vendor": 16
     },
     "Crimson Needle": {
-      "ask": 130000,
+      "ask": 115000,
       "bid": 105000,
       "vendor": 10752
     },
@@ -1131,7 +1131,7 @@
       "vendor": 12288
     },
     "Crimson Plate Legs": {
-      "ask": 120000,
+      "ask": 140000,
       "bid": 115000,
       "vendor": 10752
     },
@@ -1151,13 +1151,13 @@
       "vendor": 10752
     },
     "Crimson Spear": {
-      "ask": 165000,
+      "ask": 160000,
       "bid": 140000,
       "vendor": 13824
     },
     "Crimson Sword": {
       "ask": 170000,
-      "bid": 160000,
+      "bid": 165000,
       "vendor": 13824
     },
     "Crippling Slash": {
@@ -1217,7 +1217,7 @@
     },
     "Cupcake": {
       "ask": 185,
-      "bid": 145,
+      "bid": 150,
       "vendor": 5
     },
     "Cursed Ball": {
@@ -1262,7 +1262,7 @@
     },
     "Demonic Plate Body": {
       "ask": 9600000,
-      "bid": 8400000,
+      "bid": 8000000,
       "vendor": 400000
     },
     "Demonic Plate Legs": {
@@ -1272,7 +1272,7 @@
     },
     "Dodocamel Gauntlets": {
       "ask": 56000000,
-      "bid": 50000000,
+      "bid": 52000000,
       "vendor": 3000000
     },
     "Dodocamel Plume": {
@@ -1291,13 +1291,13 @@
       "vendor": 18
     },
     "Dragon Fruit Gummy": {
-      "ask": 800,
+      "ask": 820,
       "bid": 780,
       "vendor": 50
     },
     "Dragon Fruit Yogurt": {
-      "ask": 1000,
-      "bid": 980,
+      "ask": 1050,
+      "bid": 1000,
       "vendor": 50
     },
     "Earrings Of Armor": {
@@ -1337,11 +1337,11 @@
     },
     "Efficiency Tea": {
       "ask": 1250,
-      "bid": 1150,
+      "bid": 1200,
       "vendor": 80
     },
     "Egg": {
-      "ask": 31,
+      "ask": 30,
       "bid": 28,
       "vendor": 1
     },
@@ -1386,7 +1386,7 @@
       "vendor": 500
     },
     "Enchanted Gloves": {
-      "ask": 10500000,
+      "ask": 10000000,
       "bid": 8200000,
       "vendor": 200000
     },
@@ -1446,13 +1446,13 @@
       "vendor": 36
     },
     "Fierce Aura": {
-      "ask": 3300000,
+      "ask": 3200000,
       "bid": 3100000,
       "vendor": 10000
     },
     "Fieriosa Coffee Bean": {
-      "ask": 780,
-      "bid": 760,
+      "ask": 820,
+      "bid": 780,
       "vendor": 48
     },
     "Fighter Necklace": {
@@ -1481,8 +1481,8 @@
       "vendor": 10000
     },
     "Flame Blast": {
-      "ask": 43000,
-      "bid": 42000,
+      "ask": 44000,
+      "bid": 43000,
       "vendor": 1000
     },
     "Flaming Cloth": {
@@ -1491,17 +1491,17 @@
       "vendor": 4000
     },
     "Flaming Robe Bottoms": {
-      "ask": 220000,
-      "bid": 205000,
+      "ask": 215000,
+      "bid": 190000,
       "vendor": 40000
     },
     "Flaming Robe Top": {
-      "ask": 280000,
+      "ask": 290000,
       "bid": 270000,
       "vendor": 60000
     },
     "Flax": {
-      "ask": 62,
+      "ask": 60,
       "bid": 54,
       "vendor": 6
     },
@@ -1521,13 +1521,13 @@
       "vendor": 3500000
     },
     "Foraging Essence": {
-      "ask": 225,
-      "bid": 215,
+      "ask": 235,
+      "bid": 220,
       "vendor": 50
     },
     "Foraging Tea": {
-      "ask": 740,
-      "bid": 440,
+      "ask": 720,
+      "bid": 470,
       "vendor": 10
     },
     "Fracturing Impact": {
@@ -1536,8 +1536,8 @@
       "vendor": 1000
     },
     "Frenzy": {
-      "ask": 210000,
-      "bid": 205000,
+      "ask": 215000,
+      "bid": 210000,
       "vendor": 1000
     },
     "Frost Sphere": {
@@ -1567,7 +1567,7 @@
     },
     "Gathering Tea": {
       "ask": 480,
-      "bid": 460,
+      "bid": 470,
       "vendor": 10
     },
     "Gator Vest": {
@@ -1587,7 +1587,7 @@
     },
     "Ginkgo Crossbow": {
       "ask": 175000,
-      "bid": 110000,
+      "bid": 125000,
       "vendor": 13824
     },
     "Ginkgo Fire Staff": {
@@ -1596,8 +1596,8 @@
       "vendor": 13824
     },
     "Ginkgo Log": {
-      "ask": 60,
-      "bid": 58,
+      "ask": 58,
+      "bid": 56,
       "vendor": 16
     },
     "Ginkgo Lumber": {
@@ -1606,7 +1606,7 @@
       "vendor": 64
     },
     "Ginkgo Nature Staff": {
-      "ask": 175000,
+      "ask": 180000,
       "bid": 135000,
       "vendor": 13824
     },
@@ -1617,11 +1617,11 @@
     },
     "Ginkgo Water Staff": {
       "ask": 170000,
-      "bid": 145000,
+      "bid": 140000,
       "vendor": 13824
     },
     "Gluttonous Energy": {
-      "ask": 12000000,
+      "ask": 11500000,
       "bid": 10500000,
       "vendor": 200000
     },
@@ -1636,8 +1636,8 @@
       "vendor": 20000
     },
     "Gobo Boots": {
-      "ask": 27500,
-      "bid": 24500,
+      "ask": 27000,
+      "bid": 25000,
       "vendor": 2496
     },
     "Gobo Bracers": {
@@ -1646,18 +1646,18 @@
       "vendor": 2496
     },
     "Gobo Chaps": {
-      "ask": 78000,
-      "bid": 38000,
+      "ask": 76000,
+      "bid": 39000,
       "vendor": 4368
     },
     "Gobo Defender": {
-      "ask": 430000,
+      "ask": 420000,
       "bid": 410000,
       "vendor": 100000
     },
     "Gobo Essence": {
-      "ask": 54,
-      "bid": 48,
+      "ask": 60,
+      "bid": 46,
       "vendor": 24
     },
     "Gobo Hide": {
@@ -1666,18 +1666,18 @@
       "vendor": 12
     },
     "Gobo Hood": {
-      "ask": 38000,
-      "bid": 30000,
+      "ask": 35000,
+      "bid": 31000,
       "vendor": 3120
     },
     "Gobo Leather": {
-      "ask": 580,
+      "ask": 560,
       "bid": 540,
       "vendor": 48
     },
     "Gobo Rag": {
       "ask": 380000,
-      "bid": 370000,
+      "bid": 360000,
       "vendor": 10000
     },
     "Gobo Shooter": {
@@ -1707,7 +1707,7 @@
     },
     "Goggles": {
       "ask": 49000,
-      "bid": 48000,
+      "bid": 47000,
       "vendor": 10000
     },
     "Golem Essence": {
@@ -1731,8 +1731,8 @@
       "vendor": 30000
     },
     "Green Tea Leaf": {
-      "ask": 10,
-      "bid": 9,
+      "ask": 11,
+      "bid": 10,
       "vendor": 8
     },
     "Griffin Bulwark": {
@@ -1751,12 +1751,12 @@
       "vendor": 10000
     },
     "Griffin Talon": {
-      "ask": 7800000,
+      "ask": 7600000,
       "bid": 7000000,
       "vendor": 100000
     },
     "Griffin Tunic": {
-      "ask": 8000000,
+      "ask": 7800000,
       "bid": 7000000,
       "vendor": 400000
     },
@@ -1766,13 +1766,13 @@
       "vendor": 5000
     },
     "Grizzly Bear Shoes": {
-      "ask": 390000,
+      "ask": 400000,
       "bid": 370000,
       "vendor": 60000
     },
     "Gummy": {
       "ask": 80,
-      "bid": 66,
+      "bid": 68,
       "vendor": 5
     },
     "Guzzling Energy": {
@@ -1791,13 +1791,13 @@
       "vendor": 1000
     },
     "Holy Alembic": {
-      "ask": 450000,
-      "bid": 440000,
+      "ask": 460000,
+      "bid": 450000,
       "vendor": 61600
     },
     "Holy Boots": {
       "ask": 500000,
-      "bid": 200000,
+      "bid": 190000,
       "vendor": 35200
     },
     "Holy Brush": {
@@ -1806,7 +1806,7 @@
       "vendor": 61600
     },
     "Holy Buckler": {
-      "ask": 410000,
+      "ask": 400000,
       "bid": 390000,
       "vendor": 52800
     },
@@ -1826,32 +1826,32 @@
       "vendor": 61600
     },
     "Holy Enhancer": {
-      "ask": 460000,
-      "bid": 420000,
+      "ask": 490000,
+      "bid": 430000,
       "vendor": 61600
     },
     "Holy Gauntlets": {
-      "ask": 270000,
+      "ask": 265000,
       "bid": 260000,
       "vendor": 35200
     },
     "Holy Hammer": {
-      "ask": 410000,
-      "bid": 400000,
+      "ask": 420000,
+      "bid": 410000,
       "vendor": 61600
     },
     "Holy Hatchet": {
-      "ask": 390000,
-      "bid": 380000,
+      "ask": 400000,
+      "bid": 390000,
       "vendor": 61600
     },
     "Holy Helmet": {
       "ask": 330000,
-      "bid": 320000,
+      "bid": 310000,
       "vendor": 44000
     },
     "Holy Mace": {
-      "ask": 490000,
+      "ask": 500000,
       "bid": 480000,
       "vendor": 79200
     },
@@ -1867,7 +1867,7 @@
     },
     "Holy Plate Body": {
       "ask": 500000,
-      "bid": 460000,
+      "bid": 450000,
       "vendor": 70400
     },
     "Holy Plate Legs": {
@@ -1877,17 +1877,17 @@
     },
     "Holy Pot": {
       "ask": 450000,
-      "bid": 440000,
+      "bid": 400000,
       "vendor": 61600
     },
     "Holy Shears": {
-      "ask": 430000,
-      "bid": 420000,
+      "ask": 440000,
+      "bid": 430000,
       "vendor": 61600
     },
     "Holy Spatula": {
-      "ask": 430000,
-      "bid": 420000,
+      "ask": 440000,
+      "bid": 430000,
       "vendor": 61600
     },
     "Holy Spear": {
@@ -1917,7 +1917,7 @@
     },
     "Icy Robe Top": {
       "ask": 255000,
-      "bid": 250000,
+      "bid": 240000,
       "vendor": 60000
     },
     "Impale": {
@@ -1936,13 +1936,13 @@
       "vendor": 10000
     },
     "Insanity": {
-      "ask": 1950000,
-      "bid": 1850000,
+      "ask": 2000000,
+      "bid": 1800000,
       "vendor": 10000
     },
     "Intelligence Coffee": {
       "ask": 490,
-      "bid": 480,
+      "bid": 450,
       "vendor": 10
     },
     "Invincible": {
@@ -1966,7 +1966,7 @@
       "vendor": 8000
     },
     "Jungle Essence": {
-      "ask": 41,
+      "ask": 43,
       "bid": 39,
       "vendor": 24
     },
@@ -2021,7 +2021,7 @@
       "vendor": 0
     },
     "Liberica Coffee Bean": {
-      "ask": 490,
+      "ask": 480,
       "bid": 460,
       "vendor": 24
     },
@@ -2041,7 +2041,7 @@
       "vendor": 24
     },
     "Linen Gloves": {
-      "ask": 10000,
+      "ask": 10500,
       "bid": 6800,
       "vendor": 576
     },
@@ -2071,13 +2071,13 @@
       "vendor": 2
     },
     "Lucky Coffee": {
-      "ask": 1950,
+      "ask": 2000,
       "bid": 1900,
       "vendor": 60
     },
     "Lumber": {
-      "ask": 240,
-      "bid": 215,
+      "ask": 235,
+      "bid": 220,
       "vendor": 8
     },
     "Lumberjack's Bottoms": {
@@ -2096,17 +2096,17 @@
       "vendor": 80000
     },
     "Luna Robe Top": {
-      "ask": 1850000,
+      "ask": 1900000,
       "bid": 1700000,
       "vendor": 100000
     },
     "Luna Wing": {
-      "ask": 245000,
+      "ask": 240000,
       "bid": 235000,
       "vendor": 5000
     },
     "Maelstrom Plate Body": {
-      "ask": 110000000,
+      "ask": 140000000,
       "bid": 105000000,
       "vendor": 4500000
     },
@@ -2122,7 +2122,7 @@
     },
     "Magic Coffee": {
       "ask": 900,
-      "bid": 860,
+      "bid": 880,
       "vendor": 40
     },
     "Magician's Cloth": {
@@ -2146,7 +2146,7 @@
       "vendor": 300000
     },
     "Magnifying Glass": {
-      "ask": 140000,
+      "ask": 145000,
       "bid": 135000,
       "vendor": 10000
     },
@@ -2181,7 +2181,7 @@
       "vendor": 2000
     },
     "Marine Tunic": {
-      "ask": 660000,
+      "ask": 620000,
       "bid": 390000,
       "vendor": 60000
     },
@@ -2196,7 +2196,7 @@
       "vendor": 40000
     },
     "Marsberry": {
-      "ask": 125,
+      "ask": 120,
       "bid": 115,
       "vendor": 12
     },
@@ -2206,7 +2206,7 @@
       "vendor": 50
     },
     "Marsberry Donut": {
-      "ask": 880,
+      "ask": 860,
       "bid": 800,
       "vendor": 50
     },
@@ -2221,7 +2221,7 @@
       "vendor": 0
     },
     "Medium Pouch": {
-      "ask": 195000,
+      "ask": 135000,
       "bid": 94000,
       "vendor": 10000
     },
@@ -2241,12 +2241,12 @@
       "vendor": 50
     },
     "Milking Tea": {
-      "ask": 450,
+      "ask": 460,
       "bid": 410,
       "vendor": 10
     },
     "Minor Heal": {
-      "ask": 4900,
+      "ask": 4700,
       "bid": 3300,
       "vendor": 1000
     },
@@ -2261,13 +2261,13 @@
       "vendor": 8
     },
     "Mooberry Cake": {
-      "ask": 980,
-      "bid": 880,
+      "ask": 1000,
+      "bid": 860,
       "vendor": 40
     },
     "Mooberry Donut": {
       "ask": 580,
-      "bid": 520,
+      "bid": 540,
       "vendor": 40
     },
     "Moolong Tea Leaf": {
@@ -2292,7 +2292,7 @@
     },
     "Necklace Of Speed": {
       "ask": 13500000,
-      "bid": 13000000,
+      "bid": 12500000,
       "vendor": 150000
     },
     "Necklace Of Wisdom": {
@@ -2302,11 +2302,11 @@
     },
     "Orange": {
       "ask": 22,
-      "bid": 19,
+      "bid": 18,
       "vendor": 6
     },
     "Orange Gummy": {
-      "ask": 32,
+      "ask": 31,
       "bid": 27,
       "vendor": 20
     },
@@ -2316,7 +2316,7 @@
       "vendor": 50000
     },
     "Orange Yogurt": {
-      "ask": 460,
+      "ask": 450,
       "bid": 410,
       "vendor": 20
     },
@@ -2331,8 +2331,8 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 145,
-      "bid": 140,
+      "ask": 140,
+      "bid": 130,
       "vendor": 12
     },
     "Peach Gummy": {
@@ -2341,8 +2341,8 @@
       "vendor": 40
     },
     "Peach Yogurt": {
-      "ask": 800,
-      "bid": 780,
+      "ask": 820,
+      "bid": 800,
       "vendor": 40
     },
     "Pearl": {
@@ -2351,8 +2351,8 @@
       "vendor": 4000
     },
     "Penetrating Shot": {
-      "ask": 175000,
-      "bid": 170000,
+      "ask": 170000,
+      "bid": 165000,
       "vendor": 1000
     },
     "Penetrating Strike": {
@@ -2361,8 +2361,8 @@
       "vendor": 1000
     },
     "Pestilent Shot": {
-      "ask": 68000,
-      "bid": 66000,
+      "ask": 70000,
+      "bid": 68000,
       "vendor": 1000
     },
     "Philosopher's Earrings": {
@@ -2422,12 +2422,12 @@
     },
     "Plum Gummy": {
       "ask": 195,
-      "bid": 190,
+      "bid": 185,
       "vendor": 30
     },
     "Plum Yogurt": {
       "ask": 660,
-      "bid": 640,
+      "bid": 620,
       "vendor": 30
     },
     "Poke": {
@@ -2436,12 +2436,12 @@
       "vendor": 1000
     },
     "Polar Bear Fluff": {
-      "ask": 80000,
-      "bid": 78000,
+      "ask": 82000,
+      "bid": 80000,
       "vendor": 5000
     },
     "Polar Bear Shoes": {
-      "ask": 520000,
+      "ask": 540000,
       "bid": 470000,
       "vendor": 60000
     },
@@ -2466,7 +2466,7 @@
       "vendor": 60
     },
     "Provoke": {
-      "ask": 44000,
+      "ask": 47000,
       "bid": 42000,
       "vendor": 1000
     },
@@ -2482,21 +2482,21 @@
     },
     "Purpleheart Bow": {
       "ask": 125000,
-      "bid": 98000,
+      "bid": 105000,
       "vendor": 8640
     },
     "Purpleheart Crossbow": {
-      "ask": 88000,
-      "bid": 80000,
+      "ask": 92000,
+      "bid": 84000,
       "vendor": 6480
     },
     "Purpleheart Fire Staff": {
-      "ask": 84000,
+      "ask": 82000,
       "bid": 76000,
       "vendor": 6480
     },
     "Purpleheart Log": {
-      "ask": 135,
+      "ask": 130,
       "bid": 125,
       "vendor": 12
     },
@@ -2506,13 +2506,13 @@
       "vendor": 48
     },
     "Purpleheart Nature Staff": {
-      "ask": 90000,
-      "bid": 76000,
+      "ask": 88000,
+      "bid": 78000,
       "vendor": 6480
     },
     "Purpleheart Shield": {
-      "ask": 54000,
-      "bid": 48000,
+      "ask": 56000,
+      "bid": 47000,
       "vendor": 4320
     },
     "Purpleheart Water Staff": {
@@ -2531,7 +2531,7 @@
       "vendor": 1000
     },
     "Quick Shot": {
-      "ask": 3200,
+      "ask": 3100,
       "bid": 3000,
       "vendor": 1000
     },
@@ -2546,8 +2546,8 @@
       "vendor": 128
     },
     "Radiant Fiber": {
-      "ask": 440,
-      "bid": 420,
+      "ask": 450,
+      "bid": 430,
       "vendor": 32
     },
     "Radiant Gloves": {
@@ -2566,12 +2566,12 @@
       "vendor": 38528
     },
     "Radiant Robe Top": {
-      "ask": 460000,
+      "ask": 470000,
       "bid": 450000,
       "vendor": 44032
     },
     "Rain Of Arrows": {
-      "ask": 150000,
+      "ask": 145000,
       "bid": 140000,
       "vendor": 1000
     },
@@ -2581,8 +2581,8 @@
       "vendor": 24864
     },
     "Rainbow Boots": {
-      "ask": 96000,
-      "bid": 72000,
+      "ask": 98000,
+      "bid": 74000,
       "vendor": 14208
     },
     "Rainbow Brush": {
@@ -2602,11 +2602,11 @@
     },
     "Rainbow Cheese": {
       "ask": 1400,
-      "bid": 1350,
+      "bid": 1300,
       "vendor": 96
     },
     "Rainbow Chisel": {
-      "ask": 220000,
+      "ask": 215000,
       "bid": 205000,
       "vendor": 24864
     },
@@ -2622,12 +2622,12 @@
     },
     "Rainbow Hammer": {
       "ask": 210000,
-      "bid": 200000,
+      "bid": 195000,
       "vendor": 24864
     },
     "Rainbow Hatchet": {
       "ask": 205000,
-      "bid": 195000,
+      "bid": 200000,
       "vendor": 24864
     },
     "Rainbow Helmet": {
@@ -2662,7 +2662,7 @@
     },
     "Rainbow Pot": {
       "ask": 235000,
-      "bid": 225000,
+      "bid": 220000,
       "vendor": 24864
     },
     "Rainbow Shears": {
@@ -2697,7 +2697,7 @@
     },
     "Red Culinary Hat": {
       "ask": 5200000,
-      "bid": 5000000,
+      "bid": 4900000,
       "vendor": 200000
     },
     "Red Panda Fluff": {
@@ -2707,7 +2707,7 @@
     },
     "Red Tea Leaf": {
       "ask": 50,
-      "bid": 48,
+      "bid": 49,
       "vendor": 48
     },
     "Redwood Bow": {
@@ -2716,8 +2716,8 @@
       "vendor": 42624
     },
     "Redwood Crossbow": {
-      "ask": 255000,
-      "bid": 235000,
+      "ask": 245000,
+      "bid": 240000,
       "vendor": 31968
     },
     "Redwood Fire Staff": {
@@ -2726,17 +2726,17 @@
       "vendor": 31968
     },
     "Redwood Log": {
-      "ask": 92,
-      "bid": 86,
+      "ask": 90,
+      "bid": 84,
       "vendor": 24
     },
     "Redwood Lumber": {
       "ask": 1050,
-      "bid": 1000,
+      "bid": 980,
       "vendor": 96
     },
     "Redwood Nature Staff": {
-      "ask": 255000,
+      "ask": 250000,
       "bid": 240000,
       "vendor": 31968
     },
@@ -2746,8 +2746,8 @@
       "vendor": 21312
     },
     "Redwood Water Staff": {
-      "ask": 260000,
-      "bid": 245000,
+      "ask": 255000,
+      "bid": 240000,
       "vendor": 31968
     },
     "Regal Jewel": {
@@ -2757,7 +2757,7 @@
     },
     "Regal Sword": {
       "ask": 280000000,
-      "bid": 245000000,
+      "bid": 235000000,
       "vendor": 5000000
     },
     "Rejuvenate": {
@@ -2781,22 +2781,22 @@
       "vendor": 1008
     },
     "Reptile Hide": {
-      "ask": 15,
+      "ask": 16,
       "bid": 14,
       "vendor": 6
     },
     "Reptile Hood": {
       "ask": 21000,
-      "bid": 13500,
+      "bid": 13000,
       "vendor": 720
     },
     "Reptile Leather": {
       "ask": 470,
-      "bid": 450,
+      "bid": 460,
       "vendor": 24
     },
     "Reptile Tunic": {
-      "ask": 19000,
+      "ask": 19500,
       "bid": 10500,
       "vendor": 1152
     },
@@ -2816,7 +2816,7 @@
       "vendor": 400000
     },
     "Revive": {
-      "ask": 1200000,
+      "ask": 1150000,
       "bid": 1100000,
       "vendor": 10000
     },
@@ -2836,7 +2836,7 @@
       "vendor": 20000
     },
     "Ring Of Gathering": {
-      "ask": 5800000,
+      "ask": 6000000,
       "bid": 5000000,
       "vendor": 10000
     },
@@ -2847,7 +2847,7 @@
     },
     "Ring Of Regeneration": {
       "ask": 6400000,
-      "bid": 6000000,
+      "bid": 6200000,
       "vendor": 30000
     },
     "Ring Of Resistance": {
@@ -2861,13 +2861,13 @@
       "vendor": 5000000
     },
     "Robusta Coffee Bean": {
-      "ask": 300,
-      "bid": 275,
+      "ask": 290,
+      "bid": 270,
       "vendor": 16
     },
     "Rough Boots": {
       "ask": 3000,
-      "bid": 2550,
+      "bid": 2500,
       "vendor": 64
     },
     "Rough Bracers": {
@@ -2881,8 +2881,8 @@
       "vendor": 112
     },
     "Rough Hide": {
-      "ask": 46,
-      "bid": 45,
+      "ask": 47,
+      "bid": 44,
       "vendor": 2
     },
     "Rough Hood": {
@@ -2896,7 +2896,7 @@
       "vendor": 8
     },
     "Rough Tunic": {
-      "ask": 4700,
+      "ask": 4800,
       "bid": 3400,
       "vendor": 128
     },
@@ -2911,7 +2911,7 @@
       "vendor": 4000000
     },
     "Royal Fire Robe Top": {
-      "ask": 90000000,
+      "ask": 88000000,
       "bid": 82000000,
       "vendor": 4500000
     },
@@ -2921,7 +2921,7 @@
       "vendor": 4000000
     },
     "Royal Nature Robe Top": {
-      "ask": 94000000,
+      "ask": 88000000,
       "bid": 84000000,
       "vendor": 4500000
     },
@@ -2951,7 +2951,7 @@
       "vendor": 1000
     },
     "Shoebill Feather": {
-      "ask": 72000,
+      "ask": 68000,
       "bid": 62000,
       "vendor": 1000
     },
@@ -2962,7 +2962,7 @@
     },
     "Sighted Bracers": {
       "ask": 170000,
-      "bid": 165000,
+      "bid": 160000,
       "vendor": 40000
     },
     "Silencing Shot": {
@@ -2971,13 +2971,13 @@
       "vendor": 1000
     },
     "Silk Boots": {
-      "ask": 54000,
+      "ask": 56000,
       "bid": 52000,
       "vendor": 8000
     },
     "Silk Fabric": {
       "ask": 1500,
-      "bid": 1400,
+      "bid": 1450,
       "vendor": 80
     },
     "Silk Gloves": {
@@ -2986,7 +2986,7 @@
       "vendor": 8000
     },
     "Silk Hat": {
-      "ask": 110000,
+      "ask": 105000,
       "bid": 100000,
       "vendor": 10000
     },
@@ -3047,7 +3047,7 @@
     },
     "Small Pouch": {
       "ask": 15500,
-      "bid": 12500,
+      "bid": 13000,
       "vendor": 1000
     },
     "Small Treasure Chest": {
@@ -3066,7 +3066,7 @@
       "vendor": 1500
     },
     "Snail Shell Helmet": {
-      "ask": 23000,
+      "ask": 22000,
       "bid": 21000,
       "vendor": 6000
     },
@@ -3101,7 +3101,7 @@
       "vendor": 10000
     },
     "Soul Hunter Crossbow": {
-      "ask": 12000000,
+      "ask": 12500000,
       "bid": 10500000,
       "vendor": 400000
     },
@@ -3111,8 +3111,8 @@
       "vendor": 20
     },
     "Spaceberry Cake": {
-      "ask": 1400,
-      "bid": 1350,
+      "ask": 1450,
+      "bid": 1400,
       "vendor": 75
     },
     "Spaceberry Donut": {
@@ -3121,7 +3121,7 @@
       "vendor": 75
     },
     "Spacia Coffee Bean": {
-      "ask": 640,
+      "ask": 660,
       "bid": 620,
       "vendor": 80
     },
@@ -3187,7 +3187,7 @@
     },
     "Strawberry": {
       "ask": 110,
-      "bid": 105,
+      "bid": 100,
       "vendor": 6
     },
     "Strawberry Cake": {
@@ -3197,7 +3197,7 @@
     },
     "Strawberry Donut": {
       "ask": 440,
-      "bid": 420,
+      "bid": 410,
       "vendor": 30
     },
     "Stunning Blow": {
@@ -3256,12 +3256,12 @@
       "vendor": 120
     },
     "Super Defense Coffee": {
-      "ask": 3400,
-      "bid": 2950,
+      "ask": 3300,
+      "bid": 2750,
       "vendor": 80
     },
     "Super Enhancing Tea": {
-      "ask": 4000,
+      "ask": 3900,
       "bid": 3700,
       "vendor": 80
     },
@@ -3286,7 +3286,7 @@
       "vendor": 60
     },
     "Super Power Coffee": {
-      "ask": 4200,
+      "ask": 4300,
       "bid": 4100,
       "vendor": 120
     },
@@ -3311,8 +3311,8 @@
       "vendor": 60
     },
     "Swamp Essence": {
-      "ask": 33,
-      "bid": 30,
+      "ask": 32,
+      "bid": 31,
       "vendor": 8
     },
     "Sweep": {
@@ -3327,17 +3327,17 @@
     },
     "Sylvan Aura": {
       "ask": 3000000,
-      "bid": 2850000,
+      "bid": 2900000,
       "vendor": 10000
     },
     "Tailoring Essence": {
       "ask": 165,
-      "bid": 155,
+      "bid": 160,
       "vendor": 50
     },
     "Tailoring Tea": {
-      "ask": 740,
-      "bid": 700,
+      "ask": 700,
+      "bid": 680,
       "vendor": 40
     },
     "Tailor's Bottoms": {
@@ -3367,7 +3367,7 @@
     },
     "Thread Of Expertise": {
       "ask": 12000000,
-      "bid": 11500000,
+      "bid": 11000000,
       "vendor": 100000
     },
     "Tome Of Healing": {
@@ -3387,7 +3387,7 @@
     },
     "Toxic Pollen": {
       "ask": 160000,
-      "bid": 145000,
+      "bid": 150000,
       "vendor": 1000
     },
     "Treant Bark": {
@@ -3411,7 +3411,7 @@
       "vendor": 9000
     },
     "Turtle Shell Legs": {
-      "ask": 34000,
+      "ask": 35000,
       "bid": 32000,
       "vendor": 6000
     },
@@ -3421,7 +3421,7 @@
       "vendor": 108
     },
     "Ultra Alchemy Tea": {
-      "ask": 7400,
+      "ask": 7600,
       "bid": 7000,
       "vendor": 180
     },
@@ -3492,7 +3492,7 @@
     },
     "Ultra Stamina Coffee": {
       "ask": 9400,
-      "bid": 9000,
+      "bid": 8800,
       "vendor": 150
     },
     "Ultra Tailoring Tea": {
@@ -3501,7 +3501,7 @@
       "vendor": 210
     },
     "Ultra Woodcutting Tea": {
-      "ask": 6200,
+      "ask": 6400,
       "bid": 5800,
       "vendor": 150
     },
@@ -3511,7 +3511,7 @@
       "vendor": 22016
     },
     "Umbral Bracers": {
-      "ask": 205000,
+      "ask": 200000,
       "bid": 180000,
       "vendor": 22016
     },
@@ -3521,7 +3521,7 @@
       "vendor": 38528
     },
     "Umbral Hide": {
-      "ask": 78,
+      "ask": 80,
       "bid": 76,
       "vendor": 32
     },
@@ -3561,12 +3561,12 @@
       "vendor": 1000
     },
     "Verdant Alembic": {
-      "ask": 17500,
+      "ask": 50000,
       "bid": 14000,
       "vendor": 560
     },
     "Verdant Boots": {
-      "ask": 11000,
+      "ask": 10500,
       "bid": 8200,
       "vendor": 320
     },
@@ -3581,8 +3581,8 @@
       "vendor": 480
     },
     "Verdant Bulwark": {
-      "ask": 30000,
-      "bid": 12000,
+      "ask": 29500,
+      "bid": 12500,
       "vendor": 960
     },
     "Verdant Cheese": {
@@ -3596,13 +3596,13 @@
       "vendor": 560
     },
     "Verdant Enhancer": {
-      "ask": 14000,
+      "ask": 13500,
       "bid": 10000,
       "vendor": 560
     },
     "Verdant Gauntlets": {
-      "ask": 10000,
-      "bid": 7600,
+      "ask": 10500,
+      "bid": 7800,
       "vendor": 320
     },
     "Verdant Hammer": {
@@ -3622,7 +3622,7 @@
     },
     "Verdant Mace": {
       "ask": 19500,
-      "bid": 14500,
+      "bid": 15000,
       "vendor": 720
     },
     "Verdant Milk": {
@@ -3641,7 +3641,7 @@
       "vendor": 640
     },
     "Verdant Plate Legs": {
-      "ask": 16000,
+      "ask": 17500,
       "bid": 14000,
       "vendor": 560
     },
@@ -3662,12 +3662,12 @@
     },
     "Verdant Spear": {
       "ask": 27500,
-      "bid": 17000,
+      "bid": 16500,
       "vendor": 720
     },
     "Verdant Sword": {
       "ask": 22000,
-      "bid": 17500,
+      "bid": 18000,
       "vendor": 720
     },
     "Vision Helmet": {
@@ -3697,7 +3697,7 @@
     },
     "Werewolf Slasher": {
       "ask": 12000000,
-      "bid": 8800000,
+      "bid": 9000000,
       "vendor": 500000
     },
     "Wheat": {
@@ -3716,8 +3716,8 @@
       "vendor": 40
     },
     "Wisdom Tea": {
-      "ask": 860,
-      "bid": 820,
+      "ask": 880,
+      "bid": 840,
       "vendor": 40
     },
     "Wizard Necklace": {
@@ -3742,12 +3742,12 @@
     },
     "Wooden Crossbow": {
       "ask": 3600,
-      "bid": 2550,
+      "bid": 2600,
       "vendor": 144
     },
     "Wooden Fire Staff": {
       "ask": 4600,
-      "bid": 3300,
+      "bid": 3200,
       "vendor": 144
     },
     "Wooden Nature Staff": {
@@ -3766,10 +3766,10 @@
       "vendor": 144
     },
     "Yogurt": {
-      "ask": 190,
+      "ask": 185,
       "bid": 140,
       "vendor": 5
     }
   },
-  "time": 1752430502.1166394
+  "time": 1752434112.8547435
 }
