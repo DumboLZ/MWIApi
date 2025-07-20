@@ -1,5 +1,5 @@
 {
-  "time": 1752943501.5,
+  "time": 1752947101.5,
   "market": {
     "Amber": {
       "ask": 22000.0,
@@ -11,7 +11,7 @@
     },
     "Apple": {
       "ask": 29.0,
-      "bid": 26.5
+      "bid": 26.0
     },
     "Apple Gummy": {
       "ask": 13.0,
@@ -22,7 +22,7 @@
       "bid": 360.0
     },
     "Aqua Arrow": {
-      "ask": 28500.0,
+      "ask": 28000.0,
       "bid": 26000.0
     },
     "Aqua Essence": {
@@ -34,7 +34,7 @@
       "bid": 255.0
     },
     "Arcane Bow": {
-      "ask": 770000.0,
+      "ask": 800000.0,
       "bid": 720000.0
     },
     "Arcane Crossbow": {
@@ -66,7 +66,7 @@
       "bid": 1900.0
     },
     "Attack Coffee": {
-      "ask": 720.0,
+      "ask": 710.0,
       "bid": 680.0
     },
     "Azure Boots": {
@@ -87,7 +87,7 @@
     },
     "Azure Cheese": {
       "ask": 780.0,
-      "bid": 750.0
+      "bid": 760.0
     },
     "Azure Chisel": {
       "ask": 40000.0,
@@ -110,7 +110,7 @@
       "bid": 29000.0
     },
     "Azure Helmet": {
-      "ask": 33000.0,
+      "ask": 32000.0,
       "bid": 28500.0
     },
     "Azure Mace": {
@@ -122,7 +122,7 @@
       "bid": 155.0
     },
     "Azure Needle": {
-      "ask": 38000.0,
+      "ask": 38500.0,
       "bid": 31000.0
     },
     "Azure Plate Body": {
@@ -154,8 +154,8 @@
       "bid": 45500.0
     },
     "Bamboo Boots": {
-      "ask": 17250.0,
-      "bid": 16500.0
+      "ask": 17000.0,
+      "bid": 15750.0
     },
     "Bamboo Branch": {
       "ask": 25.5,
@@ -166,7 +166,7 @@
       "bid": 160.0
     },
     "Bamboo Gloves": {
-      "ask": 18500.0,
+      "ask": 18750.0,
       "bid": 16500.0
     },
     "Bamboo Hat": {
@@ -175,7 +175,7 @@
     },
     "Bamboo Robe Bottoms": {
       "ask": 30000.0,
-      "bid": 28250.0
+      "bid": 28500.0
     },
     "Bamboo Robe Top": {
       "ask": 33000.0,
@@ -190,12 +190,12 @@
       "bid": 50000.0
     },
     "Beast Bracers": {
-      "ask": 72000.0,
+      "ask": 73000.0,
       "bid": 68000.0
     },
     "Beast Chaps": {
-      "ask": 122500.0,
-      "bid": 115000.0
+      "ask": 125000.0,
+      "bid": 117500.0
     },
     "Beast Hide": {
       "ask": 21.0,
@@ -218,7 +218,7 @@
       "bid": 145000.0
     },
     "Birch Bow": {
-      "ask": 25750.0,
+      "ask": 26000.0,
       "bid": 20000.0
     },
     "Birch Crossbow": {
@@ -243,14 +243,14 @@
     },
     "Birch Water Staff": {
       "ask": 19500.0,
-      "bid": 16500.0
+      "bid": 17000.0
     },
     "Black Bear Fluff": {
       "ask": 70000.0,
       "bid": 68000.0
     },
     "Black Bear Shoes": {
-      "ask": 440000.0,
+      "ask": 435000.0,
       "bid": 370000.0
     },
     "Black Tea Leaf": {
@@ -303,7 +303,7 @@
     },
     "Burble Chisel": {
       "ask": 82000.0,
-      "bid": 67000.0
+      "bid": 68000.0
     },
     "Burble Enhancer": {
       "ask": 83000.0,
@@ -331,7 +331,7 @@
     },
     "Burble Plate Body": {
       "ask": 96000.0,
-      "bid": 85000.0
+      "bid": 86000.0
     },
     "Burble Pot": {
       "ask": 85000.0,
@@ -343,14 +343,14 @@
     },
     "Burble Spatula": {
       "ask": 82000.0,
-      "bid": 73000.0
+      "bid": 74000.0
     },
     "Burble Sword": {
-      "ask": 110000.0,
+      "ask": 112500.0,
       "bid": 96000.0
     },
     "Burble Tea Leaf": {
-      "ask": 26.5,
+      "ask": 27.0,
       "bid": 25.0
     },
     "Cedar Bow": {
@@ -363,18 +363,18 @@
     },
     "Cedar Log": {
       "ask": 150.0,
-      "bid": 140.0
+      "bid": 142.5
     },
     "Cedar Lumber": {
       "ask": 760.0,
       "bid": 740.0
     },
     "Cedar Water Staff": {
-      "ask": 47000.0,
+      "ask": 46500.0,
       "bid": 43000.0
     },
     "Centaur Boots": {
-      "ask": 940000.0,
+      "ask": 950000.0,
       "bid": 880000.0
     },
     "Centaur Hoof": {
@@ -407,11 +407,11 @@
     },
     "Cheese Hammer": {
       "ask": 4800.0,
-      "bid": 3950.0
+      "bid": 4000.0
     },
     "Cheese Helmet": {
       "ask": 4000.0,
-      "bid": 2975.0
+      "bid": 3000.0
     },
     "Cheese Mace": {
       "ask": 5400.0,
@@ -423,7 +423,7 @@
     },
     "Cheese Plate Legs": {
       "ask": 4700.0,
-      "bid": 3900.0
+      "bid": 3950.0
     },
     "Cheese Pot": {
       "ask": 4600.0,
@@ -439,7 +439,7 @@
     },
     "Cheese Sword": {
       "ask": 5000.0,
-      "bid": 4750.0
+      "bid": 4700.0
     },
     "Cleave": {
       "ask": 27000.0,
@@ -454,24 +454,24 @@
       "bid": -1.0
     },
     "Cotton": {
-      "ask": 46.5,
+      "ask": 46.0,
       "bid": 44.0
     },
     "Cotton Boots": {
       "ask": 2900.0,
-      "bid": 2700.0
+      "bid": 2725.0
     },
     "Cotton Fabric": {
       "ask": 340.0,
       "bid": 320.0
     },
     "Cotton Hat": {
-      "ask": 3650.0,
+      "ask": 3600.0,
       "bid": 3000.0
     },
     "Cotton Robe Bottoms": {
       "ask": 4200.0,
-      "bid": 2800.0
+      "bid": 2825.0
     },
     "Cotton Robe Top": {
       "ask": 5800.0,
@@ -487,10 +487,10 @@
     },
     "Crimson Boots": {
       "ask": 90000.0,
-      "bid": 62000.0
+      "bid": 63000.0
     },
     "Crimson Buckler": {
-      "ask": 157500.0,
+      "ask": 155000.0,
       "bid": 130000.0
     },
     "Crimson Bulwark": {
@@ -503,7 +503,7 @@
     },
     "Crimson Enhancer": {
       "ask": 160000.0,
-      "bid": 145000.0
+      "bid": 142500.0
     },
     "Crimson Gauntlets": {
       "ask": 86000.0,
@@ -522,19 +522,19 @@
       "bid": 150000.0
     },
     "Crimson Milk": {
-      "ask": 310.0,
-      "bid": 295.0
+      "ask": 305.0,
+      "bid": 292.5
     },
     "Crimson Plate Body": {
       "ask": 190000.0,
       "bid": 170000.0
     },
     "Crimson Plate Legs": {
-      "ask": 170000.0,
+      "ask": 172500.0,
       "bid": 150000.0
     },
     "Crimson Pot": {
-      "ask": 157500.0,
+      "ask": 160000.0,
       "bid": 125000.0
     },
     "Crimson Spatula": {
@@ -542,7 +542,7 @@
       "bid": 135000.0
     },
     "Crimson Spear": {
-      "ask": 197500.0,
+      "ask": 200000.0,
       "bid": 165000.0
     },
     "Crimson Sword": {
@@ -574,8 +574,8 @@
       "bid": 215.0
     },
     "Donut": {
-      "ask": 130.0,
-      "bid": 94.0
+      "ask": 132.5,
+      "bid": 96.0
     },
     "Dragon Fruit": {
       "ask": 235.0,
@@ -611,7 +611,7 @@
     },
     "Emp Tea Leaf": {
       "ask": 370.0,
-      "bid": 360.0
+      "bid": 355.0
     },
     "Enhancing Tea": {
       "ask": 1050.0,
@@ -622,8 +622,8 @@
       "bid": 640.0
     },
     "Eyessence": {
-      "ask": 50.0,
-      "bid": 48.0
+      "ask": 49.5,
+      "bid": 47.5
     },
     "Fieriosa Coffee Bean": {
       "ask": 740.0,
@@ -683,7 +683,7 @@
     },
     "Ginkgo Lumber": {
       "ask": 1000.0,
-      "bid": 960.0
+      "bid": 970.0
     },
     "Ginkgo Nature Staff": {
       "ask": 175000.0,
@@ -702,12 +702,12 @@
       "bid": 30000.0
     },
     "Gobo Essence": {
-      "ask": 69.0,
-      "bid": 62.0
+      "ask": 67.0,
+      "bid": 61.0
     },
     "Gobo Hide": {
       "ask": 33.0,
-      "bid": 27.0
+      "bid": 27.5
     },
     "Gobo Hood": {
       "ask": 42000.0,
@@ -738,11 +738,11 @@
       "bid": 275.0
     },
     "Granite Bludgeon": {
-      "ask": 11750000.0,
+      "ask": 11500000.0,
       "bid": 10000000.0
     },
     "Green Tea Leaf": {
-      "ask": 10.5,
+      "ask": 11.0,
       "bid": 9.0
     },
     "Grizzly Bear Fluff": {
@@ -751,7 +751,7 @@
     },
     "Gummy": {
       "ask": 91.0,
-      "bid": 73.0
+      "bid": 74.0
     },
     "Heal": {
       "ask": 28000.0,
@@ -766,8 +766,8 @@
       "bid": 440000.0
     },
     "Holy Bulwark": {
-      "ask": 640000.0,
-      "bid": 620000.0
+      "ask": 670000.0,
+      "bid": 650000.0
     },
     "Holy Cheese": {
       "ask": 1850.0,
@@ -779,7 +779,7 @@
     },
     "Holy Gauntlets": {
       "ask": 300000.0,
-      "bid": 235000.0
+      "bid": 237500.0
     },
     "Holy Hammer": {
       "ask": 460000.0,
@@ -795,10 +795,10 @@
     },
     "Holy Milk": {
       "ask": 340.0,
-      "bid": 325.0
+      "bid": 330.0
     },
     "Holy Plate Body": {
-      "ask": 620000.0,
+      "ask": 630000.0,
       "bid": 580000.0
     },
     "Holy Plate Legs": {
@@ -819,10 +819,10 @@
     },
     "Holy Sword": {
       "ask": 660000.0,
-      "bid": 630000.0
+      "bid": 640000.0
     },
     "Icy Cloth": {
-      "ask": 52000.0,
+      "ask": 53000.0,
       "bid": 50000.0
     },
     "Icy Robe Bottoms": {
@@ -831,7 +831,7 @@
     },
     "Icy Robe Top": {
       "ask": 270000.0,
-      "bid": 257500.0
+      "bid": 260000.0
     },
     "Jade": {
       "ask": 35000.0,
@@ -867,7 +867,7 @@
     },
     "Linen Hat": {
       "ask": 15000.0,
-      "bid": 14250.0
+      "bid": 14500.0
     },
     "Linen Robe Bottoms": {
       "ask": 22500.0,
@@ -882,7 +882,7 @@
       "bid": 21.0
     },
     "Lucky Coffee": {
-      "ask": 2075.0,
+      "ask": 2100.0,
       "bid": 2000.0
     },
     "Magic Coffee": {
@@ -894,8 +894,8 @@
       "bid": 285000.0
     },
     "Magnifying Glass": {
-      "ask": 145000.0,
-      "bid": 137500.0
+      "ask": 142500.0,
+      "bid": 135000.0
     },
     "Maim": {
       "ask": 150000.0,
@@ -927,14 +927,14 @@
     },
     "Milking Tea": {
       "ask": 550.0,
-      "bid": 365.0
+      "bid": 375.0
     },
     "Minor Heal": {
-      "ask": 3750.0,
+      "ask": 3700.0,
       "bid": 3400.0
     },
     "Mooberry": {
-      "ask": 147.5,
+      "ask": 145.0,
       "bid": 140.0
     },
     "Mooberry Cake": {
@@ -942,7 +942,7 @@
       "bid": 940.0
     },
     "Mooberry Donut": {
-      "ask": 670.0,
+      "ask": 680.0,
       "bid": 620.0
     },
     "Moonstone": {
@@ -1015,7 +1015,7 @@
     },
     "Purpleheart Crossbow": {
       "ask": 117500.0,
-      "bid": 99000.0
+      "bid": 98000.0
     },
     "Purpleheart Fire Staff": {
       "ask": 110000.0,
@@ -1074,16 +1074,16 @@
       "bid": 300000.0
     },
     "Rainbow Chisel": {
-      "ask": 302500.0,
+      "ask": 292500.0,
       "bid": 240000.0
     },
     "Rainbow Enhancer": {
       "ask": 390000.0,
-      "bid": 270000.0
+      "bid": 265000.0
     },
     "Rainbow Gauntlets": {
       "ask": 185000.0,
-      "bid": 162500.0
+      "bid": 165000.0
     },
     "Rainbow Hatchet": {
       "ask": 265000.0,
@@ -1094,7 +1094,7 @@
       "bid": 200000.0
     },
     "Rainbow Mace": {
-      "ask": 330000.0,
+      "ask": 335000.0,
       "bid": 290000.0
     },
     "Rainbow Needle": {
@@ -1146,12 +1146,12 @@
       "bid": 110.0
     },
     "Redwood Nature Staff": {
-      "ask": 305000.0,
+      "ask": 300000.0,
       "bid": 280000.0
     },
     "Redwood Water Staff": {
       "ask": 325000.0,
-      "bid": 280000.0
+      "bid": 282500.0
     },
     "Reptile Boots": {
       "ask": 12000.0,
@@ -1171,7 +1171,7 @@
     },
     "Reptile Tunic": {
       "ask": 22000.0,
-      "bid": 17750.0
+      "bid": 16500.0
     },
     "Ring Of Armor": {
       "ask": 6400000.0,
@@ -1191,7 +1191,7 @@
     },
     "Robusta Coffee Bean": {
       "ask": 285.0,
-      "bid": 277.5
+      "bid": 275.0
     },
     "Rough Bracers": {
       "ask": 4700.0,
@@ -1210,7 +1210,7 @@
       "bid": 320.0
     },
     "Rough Tunic": {
-      "ask": 4900.0,
+      "ask": 4950.0,
       "bid": 3100.0
     },
     "Scratch": {
@@ -1227,7 +1227,7 @@
     },
     "Silk Gloves": {
       "ask": 68000.0,
-      "bid": 59000.0
+      "bid": 58000.0
     },
     "Silk Robe Bottoms": {
       "ask": 160000.0,
@@ -1247,15 +1247,15 @@
     },
     "Small Pouch": {
       "ask": 19000.0,
-      "bid": 15750.0
+      "bid": 16000.0
     },
     "Snail Shell": {
-      "ask": 9200.0,
-      "bid": 8500.0
+      "ask": 9400.0,
+      "bid": 8600.0
     },
     "Snail Shell Helmet": {
       "ask": 30000.0,
-      "bid": 25000.0
+      "bid": 25250.0
     },
     "Snake Fang": {
       "ask": 3300.0,
@@ -1307,7 +1307,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": 1450.0,
-      "bid": 1375.0
+      "bid": 1400.0
     },
     "Strawberry Cake": {
       "ask": 840.0,
@@ -1375,7 +1375,7 @@
     },
     "Sweep": {
       "ask": 28000.0,
-      "bid": 27250.0
+      "bid": 27500.0
     },
     "Swiftness Coffee": {
       "ask": 2450.0,
@@ -1383,7 +1383,7 @@
     },
     "Tailoring Tea": {
       "ask": 740.0,
-      "bid": 700.0
+      "bid": 710.0
     },
     "Tome Of The Elements": {
       "ask": 700000.0,
@@ -1435,7 +1435,7 @@
     },
     "Vampirism": {
       "ask": 48000.0,
-      "bid": 45000.0
+      "bid": 45500.0
     },
     "Verdant Boots": {
       "ask": 11500.0,
@@ -1447,7 +1447,7 @@
     },
     "Verdant Bulwark": {
       "ask": 18500.0,
-      "bid": 11500.0
+      "bid": 11750.0
     },
     "Verdant Cheese": {
       "ask": 560.0,
@@ -1455,7 +1455,7 @@
     },
     "Verdant Chisel": {
       "ask": 17000.0,
-      "bid": 14500.0
+      "bid": 14750.0
     },
     "Verdant Gauntlets": {
       "ask": 11000.0,
@@ -1466,11 +1466,11 @@
       "bid": 14000.0
     },
     "Verdant Hatchet": {
-      "ask": 19000.0,
+      "ask": 18750.0,
       "bid": 13000.0
     },
     "Verdant Mace": {
-      "ask": 21500.0,
+      "ask": 21750.0,
       "bid": 18500.0
     },
     "Verdant Milk": {
@@ -1478,7 +1478,7 @@
       "bid": 100.0
     },
     "Verdant Needle": {
-      "ask": 20250.0,
+      "ask": 20000.0,
       "bid": 16500.0
     },
     "Verdant Plate Legs": {
@@ -1487,7 +1487,7 @@
     },
     "Verdant Pot": {
       "ask": 18000.0,
-      "bid": 15250.0
+      "bid": 15500.0
     },
     "Verdant Shears": {
       "ask": 19000.0,
@@ -1506,8 +1506,8 @@
       "bid": 100000.0
     },
     "Water Strike": {
-      "ask": 10750.0,
-      "bid": 10250.0
+      "ask": 11000.0,
+      "bid": 10500.0
     },
     "Werewolf Claw": {
       "ask": 600000.0,
@@ -1531,14 +1531,14 @@
     },
     "Wooden Bow": {
       "ask": 4600.0,
-      "bid": 2975.0
+      "bid": 2950.0
     },
     "Wooden Crossbow": {
       "ask": 4800.0,
       "bid": 3000.0
     },
     "Wooden Fire Staff": {
-      "ask": 4800.0,
+      "ask": 4900.0,
       "bid": 3300.0
     },
     "Wooden Water Staff": {
@@ -1583,11 +1583,11 @@
     },
     "Cheese Needle": {
       "ask": 5600.0,
-      "bid": 3950.0
+      "bid": 3900.0
     },
     "Cheese Shears": {
-      "ask": 4550.0,
-      "bid": 3500.0
+      "ask": 4500.0,
+      "bid": 3600.0
     },
     "Cheesesmithing Tea": {
       "ask": 700.0,
@@ -1599,7 +1599,7 @@
     },
     "Cotton Gloves": {
       "ask": 3100.0,
-      "bid": 2725.0
+      "bid": 2750.0
     },
     "Cowbell": {
       "ask": -1.0,
@@ -1610,7 +1610,7 @@
       "bid": 120000.0
     },
     "Crimson Chisel": {
-      "ask": 140000.0,
+      "ask": 142500.0,
       "bid": 125000.0
     },
     "Crimson Hatchet": {
@@ -1631,11 +1631,11 @@
     },
     "Defense Coffee": {
       "ask": 700.0,
-      "bid": 660.0
+      "bid": 650.0
     },
     "Dragon Fruit Yogurt": {
-      "ask": 1100.0,
-      "bid": 1050.0
+      "ask": 1125.0,
+      "bid": 1075.0
     },
     "Flaming Robe Bottoms": {
       "ask": 200000.0,
@@ -1647,7 +1647,7 @@
     },
     "Gobo Leather": {
       "ask": 780.0,
-      "bid": 750.0
+      "bid": 760.0
     },
     "Holy Chisel": {
       "ask": 480000.0,
@@ -1666,7 +1666,7 @@
       "bid": 470000.0
     },
     "Ice Spear": {
-      "ask": 26500.0,
+      "ask": 26750.0,
       "bid": 26000.0
     },
     "Intelligence Coffee": {
@@ -1674,16 +1674,16 @@
       "bid": 580.0
     },
     "Linen Fabric": {
-      "ask": 570.0,
-      "bid": 520.0
+      "ask": 580.0,
+      "bid": 530.0
     },
     "Linen Robe Top": {
       "ask": 23500.0,
       "bid": 20000.0
     },
     "Lumber": {
-      "ask": 257.5,
-      "bid": 247.5
+      "ask": 260.0,
+      "bid": 250.0
     },
     "Mirror Of Protection": {
       "ask": 10500000.0,
@@ -1703,7 +1703,7 @@
     },
     "Peach Yogurt": {
       "ask": 880.0,
-      "bid": 840.0
+      "bid": 850.0
     },
     "Plum Gummy": {
       "ask": 190.0,
@@ -1722,12 +1722,12 @@
       "bid": 150000.0
     },
     "Radiant Hat": {
-      "ask": 305000.0,
-      "bid": 297500.0
+      "ask": 300000.0,
+      "bid": 295000.0
     },
     "Rainbow Boots": {
-      "ask": 110000.0,
-      "bid": 93000.0
+      "ask": 112500.0,
+      "bid": 94000.0
     },
     "Rainbow Cheese": {
       "ask": 1550.0,
@@ -1747,7 +1747,7 @@
     },
     "Rainbow Sword": {
       "ask": 420000.0,
-      "bid": 350000.0
+      "bid": 355000.0
     },
     "Redwood Bow": {
       "ask": 410000.0,
@@ -1759,7 +1759,7 @@
     },
     "Reptile Bracers": {
       "ask": 13500.0,
-      "bid": 11500.0
+      "bid": 11250.0
     },
     "Reptile Leather": {
       "ask": 490.0,
@@ -1774,7 +1774,7 @@
       "bid": 2650.0
     },
     "Rough Hood": {
-      "ask": 4000.0,
+      "ask": 3950.0,
       "bid": 2400.0
     },
     "Shard Of Protection": {
@@ -1782,7 +1782,7 @@
       "bid": 58000.0
     },
     "Silk Hat": {
-      "ask": 112500.0,
+      "ask": 115000.0,
       "bid": 105000.0
     },
     "Small Artisan's Crate": {
@@ -1794,12 +1794,12 @@
       "bid": -1.0
     },
     "Snake Fang Dirk": {
-      "ask": 21500.0,
+      "ask": 21750.0,
       "bid": 15500.0
     },
     "Spaceberry": {
-      "ask": 245.0,
-      "bid": 240.0
+      "ask": 242.5,
+      "bid": 237.5
     },
     "Spike Shell": {
       "ask": 41000.0,
@@ -1834,7 +1834,7 @@
       "bid": 38000.0
     },
     "Turtle Shell": {
-      "ask": 13250.0,
+      "ask": 13000.0,
       "bid": 12500.0
     },
     "Umbral Boots": {
@@ -1851,7 +1851,7 @@
     },
     "Verdant Buckler": {
       "ask": 13000.0,
-      "bid": 8300.0
+      "bid": 8200.0
     },
     "Verdant Enhancer": {
       "ask": 19500.0,
@@ -1859,7 +1859,7 @@
     },
     "Verdant Helmet": {
       "ask": 14000.0,
-      "bid": 12500.0
+      "bid": 12250.0
     },
     "Verdant Spatula": {
       "ask": 15000.0,
@@ -1874,7 +1874,7 @@
       "bid": 28.0
     },
     "Woodcutting Tea": {
-      "ask": 590.0,
+      "ask": 600.0,
       "bid": 500.0
     },
     "Wooden Nature Staff": {
@@ -1910,7 +1910,7 @@
       "bid": 160000.0
     },
     "Gobo Chaps": {
-      "ask": 75000.0,
+      "ask": 74000.0,
       "bid": 51000.0
     },
     "Gobo Stabber": {
@@ -1918,7 +1918,7 @@
       "bid": 78000.0
     },
     "Gourmet Tea": {
-      "ask": 670.0,
+      "ask": 680.0,
       "bid": 640.0
     },
     "Grizzly Bear Shoes": {
@@ -1950,12 +1950,12 @@
       "bid": 72000.0
     },
     "Verdant Plate Body": {
-      "ask": 20750.0,
-      "bid": 17500.0
+      "ask": 21250.0,
+      "bid": 17750.0
     },
     "Ginkgo Water Staff": {
-      "ask": 210000.0,
-      "bid": 160000.0
+      "ask": 207500.0,
+      "bid": 157500.0
     },
     "Polar Bear Shoes": {
       "ask": 460000.0,
@@ -1966,7 +1966,7 @@
       "bid": 10.0
     },
     "Crimson Needle": {
-      "ask": 147500.0,
+      "ask": 150000.0,
       "bid": 115000.0
     },
     "Burble Plate Legs": {
@@ -1987,18 +1987,18 @@
     },
     "Cedar Shield": {
       "ask": 34000.0,
-      "bid": 21250.0
+      "bid": 21500.0
     },
     "Ginkgo Shield": {
       "ask": 86000.0,
-      "bid": 69000.0
+      "bid": 68000.0
     },
     "Purpleheart Shield": {
       "ask": 68000.0,
       "bid": 58000.0
     },
     "Redwood Shield": {
-      "ask": 175000.0,
+      "ask": 177500.0,
       "bid": 160000.0
     },
     "Sighted Bracers": {
@@ -2038,8 +2038,8 @@
       "bid": -1.0
     },
     "Abyssal Essence": {
-      "ask": 282.5,
-      "bid": 277.5
+      "ask": 280.0,
+      "bid": 275.0
     },
     "Channeling Coffee": {
       "ask": 2500.0,
@@ -2078,7 +2078,7 @@
       "bid": 8000000.0
     },
     "Demonic Plate Legs": {
-      "ask": 7600000.0,
+      "ask": 7500000.0,
       "bid": 6000000.0
     },
     "Elusiveness": {
@@ -2090,7 +2090,7 @@
       "bid": 8600000.0
     },
     "Eye Of The Watcher": {
-      "ask": 300000.0,
+      "ask": 305000.0,
       "bid": 295000.0
     },
     "Eye Watch": {
@@ -2154,7 +2154,7 @@
       "bid": 64000.0
     },
     "Marine Tunic": {
-      "ask": 540000.0,
+      "ask": 560000.0,
       "bid": 470000.0
     },
     "Nature's Veil": {
@@ -2179,10 +2179,10 @@
     },
     "Revenant Chaps": {
       "ask": -1.0,
-      "bid": 6200000.0
+      "bid": 6600000.0
     },
     "Revenant Tunic": {
-      "ask": 9700000.0,
+      "ask": 9600000.0,
       "bid": 8800000.0
     },
     "Shoebill Feather": {
@@ -2198,11 +2198,11 @@
       "bid": 145000.0
     },
     "Soul Fragment": {
-      "ask": 610000.0,
-      "bid": 590000.0
+      "ask": 620000.0,
+      "bid": 600000.0
     },
     "Soul Hunter Crossbow": {
-      "ask": 16250000.0,
+      "ask": 16000000.0,
       "bid": 9800000.0
     },
     "Steady Shot": {
@@ -2234,7 +2234,7 @@
       "bid": 1600000.0
     },
     "Critical Aura": {
-      "ask": 1900000.0,
+      "ask": 1875000.0,
       "bid": 1800000.0
     },
     "Fierce Aura": {
@@ -2246,7 +2246,7 @@
       "bid": 1550000.0
     },
     "Insanity": {
-      "ask": 2350000.0,
+      "ask": 2325000.0,
       "bid": 2200000.0
     },
     "Invincible": {
@@ -2258,7 +2258,7 @@
       "bid": 40000.0
     },
     "Quick Aid": {
-      "ask": 230000.0,
+      "ask": 232500.0,
       "bid": 225000.0
     },
     "Rejuvenate": {
@@ -2282,7 +2282,7 @@
       "bid": 56000.0
     },
     "Acrobatic Hood": {
-      "ask": 79000000.0,
+      "ask": 78000000.0,
       "bid": 72000000.0
     },
     "Acrobat's Ribbon": {
@@ -2323,7 +2323,7 @@
     },
     "Chimerical Essence": {
       "ask": 620.0,
-      "bid": 580.0
+      "bid": 590.0
     },
     "Chimerical Key": {
       "ask": -1.0,
@@ -2343,7 +2343,7 @@
     },
     "Cursed Bow": {
       "ask": 190000000.0,
-      "bid": 165000000.0
+      "bid": 167500000.0
     },
     "Dark Key Fragment": {
       "ask": 1650000.0,
@@ -2431,7 +2431,7 @@
     },
     "Manticore Sting": {
       "ask": 2500000.0,
-      "bid": 2425000.0
+      "bid": 2450000.0
     },
     "Orange Key Fragment": {
       "ask": 1050000.0,
@@ -2442,7 +2442,7 @@
       "bid": 175000.0
     },
     "Penetrating Strike": {
-      "ask": 48500.0,
+      "ask": 48000.0,
       "bid": 47000.0
     },
     "Pestilent Shot": {
@@ -2471,7 +2471,7 @@
     },
     "Royal Fire Robe Bottoms": {
       "ask": 73000000.0,
-      "bid": 69000000.0
+      "bid": 70000000.0
     },
     "Royal Fire Robe Top": {
       "ask": 92000000.0,
@@ -2510,7 +2510,7 @@
       "bid": -1.0
     },
     "Smoke Burst": {
-      "ask": 92000.0,
+      "ask": 91000.0,
       "bid": 88000.0
     },
     "Stone Key Fragment": {
@@ -2554,8 +2554,8 @@
       "bid": 170000000.0
     },
     "Griffin Talon": {
-      "ask": 7000000.0,
-      "bid": 6800000.0
+      "ask": 7100000.0,
+      "bid": 6900000.0
     },
     "Sinister Chest Key": {
       "ask": 4100000.0,
@@ -2594,7 +2594,7 @@
       "bid": 67000.0
     },
     "Catalyst Of Coinification": {
-      "ask": 2975.0,
+      "ask": 3000.0,
       "bid": 2900.0
     },
     "Catalyst Of Decomposition": {
@@ -2691,7 +2691,7 @@
     },
     "Necklace Of Speed": {
       "ask": 13500000.0,
-      "bid": 12750000.0
+      "bid": 13000000.0
     },
     "Philosopher's Earrings": {
       "ask": -1.0,
@@ -2855,7 +2855,7 @@
     },
     "Celestial Enhancer": {
       "ask": -1.0,
-      "bid": 230000000.0
+      "bid": 232500000.0
     },
     "Celestial Hammer": {
       "ask": -1.0,
@@ -2962,7 +2962,7 @@
       "bid": 68000000.0
     },
     "Blazing Trident": {
-      "ask": 287500000.0,
+      "ask": 285000000.0,
       "bid": 280000000.0
     },
     "Blooming Trident": {
@@ -2974,7 +2974,7 @@
       "bid": 8000000.0
     },
     "Corsair Helmet": {
-      "ask": 94000000.0,
+      "ask": 93000000.0,
       "bid": 86000000.0
     },
     "Damaged Anchor": {
@@ -3006,19 +3006,19 @@
       "bid": 96000000.0
     },
     "Life Drain": {
-      "ask": 59000.0,
+      "ask": 58000.0,
       "bid": 56000.0
     },
     "Maelstrom Plate Body": {
-      "ask": 105000000.0,
+      "ask": 110000000.0,
       "bid": 100000000.0
     },
     "Maelstrom Plate Legs": {
       "ask": 84000000.0,
-      "bid": 81000000.0
+      "bid": 82000000.0
     },
     "Maelstrom Plating": {
-      "ask": 8900000.0,
+      "ask": 8800000.0,
       "bid": 8600000.0
     },
     "Marksman Bracers": {
